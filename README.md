@@ -7,6 +7,8 @@
 ##### -Python3
 ##### -MySQL</br>
 ##### -Tkinter (biblioteca GUI)
+##### -Xampp (servidor)
+
 
 ## 🔧 Instalação
 ##### Primeiramente vamos começar instalando MySQL https://www.mysql.com/downloads/ </br>
